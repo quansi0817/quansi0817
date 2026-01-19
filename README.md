@@ -1,21 +1,8 @@
-<table style="width:100%; border:none; background:none;">
-  <tr style="border:none; background:none;">
-    <td width="50%" style="border:none; background:none;">
-      <h1 style="margin:0;">Sichao</h1>
-    </td>
-    <td width="50%" align="right" style="border:none; background:none;">
-      <a href="https://www.linkedin.com/in/sichao-quan-279395281/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="mailto:sichao.quan@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-      <a href="https://quansi0817.github.io/">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio">
-      </a>
-    </td>
-  </tr>
-</table>
+# Sichao Quan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sichao-quan-279395281/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sichao.quan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://quansi0817.github.io/)
 
 ---
 
@@ -41,4 +28,3 @@ I specialize in designing scalable **ETL pipelines**, leveraging **AWS** cloud i
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-</p>
