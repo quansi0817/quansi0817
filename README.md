@@ -3,7 +3,7 @@
 
 ---
 
-I'm a **Data Analyst & ETL Developer** and a recent **High Honours graduate (3.94/4.0 GPA)** of **Software Development & Network Engineering** from Sheridan College.
+I'm a **Data Analyst** and a recent **High Honours graduate (3.94/4.0 GPA)** of **Software Development & Network Engineering** from Sheridan College.
 
 I specialize in designing scalable **ETL pipelines**, leveraging **AWS** cloud infrastructure, and developing **Machine Learning** models. I love solving data problems and transforming raw numbers into actionable insights.
 
